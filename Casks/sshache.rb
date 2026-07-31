@@ -1,8 +1,8 @@
 cask "sshache" do
-  version "0.8.0"
-  sha256 "a349080863833396aa0ab3a05ab5e5fca51c4762a6230be6843ef6891c9e6b5d"
+  version "0.8.1"
+  sha256 "1f9e8c877a48591ab5df8d275b84bcffc581b464b48fcc10315d195247583d6d"
 
-  url "https://github.com/SSH-Ache/ssh-ache/releases/download/v0.8.0/SSH.Ache_0.8.0_universal.dmg"
+  url "https://github.com/SSH-Ache/ssh-ache/releases/download/v0.8.1/SSH.Ache_0.8.1_universal.dmg"
   name "SSH Ache"
   desc "Fast, local-first, open-source SSH client: terminal, SFTP, port forwarding"
   homepage "https://github.com/SSH-Ache/ssh-ache"
