@@ -1,8 +1,8 @@
 cask "sshache-teams" do
-  version "0.9.1"
-  sha256 "8ef9273ce8bd433120fecbb76a86b45516067eba248dbe56e377a61edb253768"
+  version "0.10.0"
+  sha256 "23d24938517264088566a5beb27c28046fe40a804b7545910011b8b073926632"
 
-  url "https://github.com/SSH-Ache/ssh-ache-teams/releases/download/v0.9.1/SSH.Ache.Teams_0.9.1_universal.dmg"
+  url "https://github.com/SSH-Ache/ssh-ache-teams/releases/download/v0.10.0/SSH.Ache.Teams_0.10.0_universal.dmg"
   name "SSH Ache Teams"
   desc "SSH Ache with Teams: E2EE shared connections, terminal, SFTP, port forwarding"
   homepage "https://sshache.com"
